@@ -48,4 +48,5 @@ Users should be able to filter the list based on any of the available columns.
 ![Dashboard Empl List Final Photo](https://github.com/user-attachments/assets/00b7de08-fd08-46a6-b28c-b441db75a395)
 
 #### Tableau Public Viz
-[HR Dashboard](https://public.tableau.com/app/profile/garrison.lowe/viz/HRDashboard_17232741174750/HRDetailsDashboard?publish=yes)
+[Try it out here!](https://public.tableau.com/app/profile/garrison.lowe/viz/HRDashboard_17232741174750/HRDetailsDashboard?publish=yes)
+**Note:** Noticed the Employee List dashboard is not loading correctly on Tableau Public, try downloading and opening in local Tableau for full list.
