@@ -1,3 +1,7 @@
+#### Tableau Public Viz
+[Try it out here!](https://public.tableau.com/app/profile/garrison.lowe/viz/HRDashboard_17232741174750/HRDetailsDashboard?publish=yes)
+**Note:** Noticed the Employee List dashboard is not loading correctly on Tableau Public, try downloading and opening in local Tableau for full list.
+
 # User Story - HR Dashboard
 As an HR manager, I want a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis
 
@@ -47,6 +51,4 @@ Users should be able to filter the list based on any of the available columns.
 #### Employee List
 ![Dashboard Empl List Final Photo](https://github.com/user-attachments/assets/00b7de08-fd08-46a6-b28c-b441db75a395)
 
-#### Tableau Public Viz
-[Try it out here!](https://public.tableau.com/app/profile/garrison.lowe/viz/HRDashboard_17232741174750/HRDetailsDashboard?publish=yes)
-**Note:** Noticed the Employee List dashboard is not loading correctly on Tableau Public, try downloading and opening in local Tableau for full list.
+
