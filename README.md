@@ -1,5 +1,5 @@
 #### Tableau Public Viz
-[Try it out here!](https://public.tableau.com/app/profile/garrison.lowe/viz/HRDashboard_17232741174750/HRDetailsDashboard?publish=yes)
+[Try it out here!](https://public.tableau.com/app/profile/garrison.lowe/viz/HROverviewandEmployeeListDashboard/HRSummaryDashboard)
 **Note:** Noticed the Employee List dashboard is not loading correctly on Tableau Public, try downloading and opening in local Tableau for full list.
 
 # User Story - HR Dashboard
